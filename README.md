@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-I am a dedicated DevOps engineer driven by a passion for optimizing software delivery and enhancing infrastructure scalability. With a focus on seamless integration between development and operations, I leverage leading-edge tools and methodologies to architect robust, automated solutions that drive efficiency and reliability across the software development lifecycle. My commitment to continuous improvement and attention to detail ensure that I excel in dynamic environments where innovation meets operational excellence.
+  I am a dedicated DevOps engineer driven by a passion for optimizing software delivery and enhancing infrastructure scalability. With a focus on seamless integration between development and operations, I leverage leading-edge tools and methodologies to architect robust, automated solutions that drive efficiency and reliability across the software development lifecycle. My commitment to continuous improvement and attention to detail ensure that I excel in dynamic environments where innovation meets operational excellence.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanmhaske955)
